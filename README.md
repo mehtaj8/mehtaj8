@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehtaj8.mehtaj8)
 
 
-It's great to meet you! My name is Jash and I'm in my 4th year of [Software Engineering](https://academiccalendars.romcmaster.ca/preview_program.php?catoid=47&poid=24011) at McMaster University. I am about to graduate and have a full time offer lined up at ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon)
+It's great to meet you! My name is Jash and I'm a Software Engineering at ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon). 
 
 ## Technologies
 
