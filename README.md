@@ -11,7 +11,7 @@ It's great to meet you! My name is Jash and I'm in my 4th year of [Software Engi
 ## Technologies
 
 ![C](https://img.shields.io/badge/-C/C++-white?style=flat&logo=C)
-![RUST](https://img.shields.io/badge/-C/C++-orange?style=flat&logo=Rust)
+![RUST](https://img.shields.io/badge/-RUST-orange?style=flat&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
