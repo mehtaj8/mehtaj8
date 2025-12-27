@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehtaj8.mehtaj8)
 
 
-It's great to meet you! My name is Jash and I'm a Software Engineering at ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon). 
+It's great to meet you! My name is Jash and I'm a Software Engineering at ![Amazon](https://img.shields.io/badge/-AWS-black?style=flat&logo=Amazon). 
 
 ## Technologies
 
