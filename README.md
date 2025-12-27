@@ -1,7 +1,6 @@
 # Hey, I'm Jash :wave: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mehtaj8-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtaj8/)](https://www.linkedin.com/in/mehtaj8/)
-[![Gmail Badge](https://img.shields.io/badge/-mehtaj8@mcmaster.ca-brown?style=flat&logo=Gmail&logoColor=white&link=mailto:mehtaj8@mcmaster.ca)](mailto:mehtaj8@mcmaster.ca)
 [![Website Badge](https://img.shields.io/badge/-mehtaj8.github.io-blue?style=flat&logo=Bing&logoColor=white&link=https://mehtaj8.github.io/)](https://mehtaj8.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehtaj8.mehtaj8)
 
